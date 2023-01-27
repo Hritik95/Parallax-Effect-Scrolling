@@ -2,6 +2,7 @@
 # Parallax Scrolling Effects
 
 Parallax Effect using html, css and javascript.
+Click here to see : https://hritik95.github.io/Parallax-Effect-Scrolling/
 
 
 ## Language Used
